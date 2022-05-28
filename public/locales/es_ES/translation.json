@@ -1,0 +1,41 @@
+{
+    "navbar": {
+        "about": "Sobre mi",
+        "work": "Proyectos",
+        "contact": "Contacto"
+    },
+    "mainSection": {
+        "title": "Desarrollador de Frontend & Backend"
+    },
+    "secondSection": {
+        "first": "Soy Nicolás Zarcero, un estudiante muy apasionado y motivado criado en Cataluña, España.",
+        "second": "Me enamoré de la tecnología desde el primer momento que puse mis manos sobre un ordenador y desde entonces he estado aprendiendo y mejorando nuevas habilidades.",
+        "third": "Actualmente estoy estudiando un grado medio en sistemas microinformáticos y redes.",
+        "fourth": "Cuando no estoy trabajando en ningún proyecto, me gusta escuchar música y ver películas."
+    },
+    "thirdSection": {
+        "title": "Proyectos en los que he trabajado",
+        "first-project": {
+            "title": "Página de incio de Flora",
+            "first-desc": "Una página web creada para mostrar las características de ",
+            "second-desc": " además de darle a la gente una manera sencilla de implementar el bot a sus servidores.",
+            "link": "Flora"
+        },
+        "second-project": {
+            "title": "Swillan",
+            "description": "Una plataforma de cursos sin necesidad de incio de sesión. Tanto para desarrolladores principiantes como avanzados que quieran iniciar su carrera en el mundo de la programación o mejorarla con la ayuda de nuestros cursos."
+        },
+        "third-project": {
+            "title": "Portfolio de Zarcero",
+            "description": "Una web creada para mostrar mi trabajo y dar una manera rápida y sencilla de contactar conmigo."
+        }
+    },
+    "contact": {
+        "contact": "Contacto",
+        "socials": "Redes Sociales",
+        "copied": "¡Email copiado al portapapeles!"
+    },
+    "footer": {
+        "title": "Hecho por Zarcero con amor"
+    }
+  }

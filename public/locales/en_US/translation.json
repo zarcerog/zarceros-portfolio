@@ -1,0 +1,41 @@
+{
+    "navbar": {
+        "about": "About",
+        "work": "Work",
+        "contact": "Contact"
+    },
+    "mainSection": {
+        "title": "Frontend & Backend Developer"
+    },
+    "secondSection": {
+        "first": "I’m Nicolás Zarcero, a really passionate and motivated student raised in Catalonia, Spain.",
+        "second": "I fell in love with technology the very first day that I got my hands on a computer and have been learning and improving new skills ever since.",
+        "third": "I’m currently studying a vocational training in microcomputing and networking systems.",
+        "fourth": "When I’m not working on any project, I like listening to music or watching movies."
+    },
+    "thirdSection": {
+        "title": "Projects I've worked on",
+        "first-project": {
+            "title": "Flora Landing Page",
+            "first-desc": "A website made to showcase ",
+            "second-desc": " features aswell as to give people an easy way to add the bot to their servers.",
+            "link": "Flora's"
+        },
+        "second-project": {
+            "title": "Swillan",
+            "description": "A login-free courses platform. For both beginner and advanced developers who want to start their programming career or enhance it with the help of our courses."
+        },
+        "third-project": {
+            "title": "Zarcero's Portfolio",
+            "description": "A website made to showcase my work and let others reach out to me."
+        }
+    },
+    "contact": {
+        "contact": "Contact",
+        "socials": "Socials",
+        "copied": "Email copied to clipboard!"
+    },
+    "footer": {
+        "title": "Made by Zarcero with love"
+    }
+  }
