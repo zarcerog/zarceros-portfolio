@@ -12,7 +12,7 @@ export default function Navbar() {
         const nav = document.getElementById("navbar");
         let list = document.querySelector('ul');
 
-        if (menu.name == "menu-outline") {
+        if (menu.name === "menu-outline") {
             menu.name = "close-outline";
             list.classList.remove('opacity-0');
             list.classList.add('opacity-100');
