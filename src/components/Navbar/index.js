@@ -2,7 +2,6 @@ import React from "react";
 import Dropdown from "components/Dropdown";
 import { useTranslation } from 'react-i18next';
 import { Link } from "react-scroll";
-import menu from "images/menu.svg";
 
 export default function Navbar() {
     
