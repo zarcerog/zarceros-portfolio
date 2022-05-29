@@ -38,7 +38,7 @@ export default function Navbar() {
                 </button>
             </div>
             <div>
-                <ul className="md:flex md:items-center z-10 md:z-auto md:bg-inherit left-0 absolute md:static w-full md:w-auto md:py-0 md:pl-0 pl-7 md:opacity-100 opacity-0 top-[-400] pointer-events-none">
+                <ul className="md:flex md:items-center md:z-auto md:bg-inherit left-0 absolute md:static w-full md:w-auto md:py-0 md:pl-0 pl-7 md:opacity-100 opacity-0 top-[-400] pointer-events-none md:pointer-events-auto">
                     <li className="font-semibold cursor-pointer mx-4 my-0">
                         <Link activeClass="active" to="about" spy={true} smooth={true} offset={0} duration={500}>
                             {t('navbar.about')}
