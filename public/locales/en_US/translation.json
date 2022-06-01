@@ -23,7 +23,8 @@
         },
         "second-project": {
             "title": "Swillan",
-            "description": "A login-free courses platform. For both beginner and advanced developers who want to start their programming career or enhance it with the help of our courses."
+            "description": "A login-free courses platform. For both beginner and advanced developers who want to start their programming career or enhance it with the help of our courses.",
+            "not-available": "This project is being developed privately."
         },
         "third-project": {
             "title": "Zarcero's Portfolio",

@@ -23,7 +23,8 @@
         },
         "second-project": {
             "title": "Swillan",
-            "description": "Una plataforma de cursos sin necesidad de incio de sesión. Tanto para desarrolladores principiantes como avanzados que quieran iniciar su carrera en el mundo de la programación o mejorarla con la ayuda de nuestros cursos."
+            "description": "Una plataforma de cursos sin necesidad de incio de sesión. Tanto para desarrolladores principiantes como avanzados que quieran iniciar su carrera en el mundo de la programación o mejorarla con la ayuda de nuestros cursos.",
+            "not-available": "Este proyecto se está desarrollando de manera privada."
         },
         "third-project": {
             "title": "Portfolio de Zarcero",
